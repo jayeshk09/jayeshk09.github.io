@@ -14,8 +14,8 @@
 
 | **Degree**                 | **Institution**   | **Year**       | **Score/CGPA** |
 |----------------------------|-------------------|----------------|----------------|
-| B.Tech in Computer Science | MNIT Jaipur       | 2023 - 2027    | 8.0 CGPA       |
-| High School                | XYZ School        | 2021           | 95.8%          |
+| B.Tech in CSE              | MNIT Jaipur       | 2023 - 2027    | 7.0 CGPA       |
+| High School                | ryan international| 2021           | 95.8%          |
 
 ---
 

@@ -9,11 +9,15 @@
 ###### I am a person who is positive about every aspect of life. There are many things I like to do, to see, and to experience. I like to read, I like to write; I like to think, I like to dream; I like to talk, I like to listen.  I like to sleep early, I like to get up late; I like to be alone, I like to be surrounded by people. I like country’s peace, I like metropolis’ noise; I like the beautiful west lake in Hangzhou, I like the flat cornfield in Champaign. I like delicious food and comfortable shoes; I like good books and romantic movies. I like the land and the nature, I like people. And, I like to laugh.
 ######  simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
 ---
-###   __Education__
-| Qualification | Institute                        | Year of Passing | Score   |
-| --------------|----------------------------------|-----------------:|---------|
-| High Schooling|RYAN INTERNATIONAL  |2023             |95.8%    |
-| B.Tech in CSE |NIT Jaipur                        |2027             |7.8      |
+
+### Education
+
+| **Degree**                 | **Institution**   | **Year**       | **Score/CGPA** |
+|----------------------------|-------------------|----------------|----------------|
+| B.Tech in Computer Science | MNIT Jaipur       | 2023 - 2027    | 8.0 CGPA       |
+| High School                | XYZ School        | 2021           | 95.8%          |
+
+---
 
 ###   _Areas of Strength_
 - Web development

@@ -19,7 +19,7 @@
 - Web development
 - Machine learning
 - Software development
-
+- UML Design 
 ## Experience
-
+ 
 [x] Completed a 6 month intership in a full-stack development team in 2025.

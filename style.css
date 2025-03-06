@@ -18,7 +18,8 @@ a {
 
 /* Header */
 header {
-    background: linear-gradient(135deg, #6e7bff, #a7a6ff);
+/*     background: linear-gradient(135deg, #6e7bff, #a7a6ff); */
+    background-color: #ADB2D4;
     color: white;
     padding: 60px 0;
     text-align: center;
